@@ -1,0 +1,62 @@
+{
+    "locations": [
+      {
+        "city": "New York",
+        "country": "United States",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "forecast": 
+          {
+            "date": "2024-02-28",
+            "temperature_min": 25,
+            "temperature_max": 32,
+            "humidity": 48,
+            "conditions": "Sunny"
+          }
+        
+      },
+      {
+        "city": "Tokyo",
+        "country": "Japan",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "forecast": 
+          {
+            "date": "2024-02-28",
+            "temperature_min": 15,
+            "temperature_max": 20,
+            "humidity": 75,
+            "conditions": "Rainy"
+          }
+      },
+      {
+        "city": "Sydney",
+        "country": "Australia",
+        "latitude": -33.8688,
+        "longitude": 151.2093,
+        "forecast": 
+          {
+            "date": "2024-02-28",
+            "temperature_min": 21,
+            "temperature_max": 26,
+            "humidity": 60,
+            "conditions": "Windy"
+          }
+      },
+      {
+        "city": "Manar",
+        "country": "Tunisia",
+        "latitude": 30.8688,
+        "longitude": 151.2093,
+        "forecast": 
+          {
+            "date": "2024-02-28",
+            "temperature_min": 6,
+            "temperature_max": 19,
+            "humidity": 60,
+            "conditions": "Cloudy"
+          }
+      }
+    ]
+  }
+  
